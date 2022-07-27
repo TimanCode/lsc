@@ -22,7 +22,7 @@ var l_displayMapGamemode = true;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "Star Force RP";
+var l_serverName = "Force Project";
 
 // Use a video for the background?
 // Otherwise it will use images
@@ -72,7 +72,7 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-    "1.jpeg",
+    "1.jpg",
     "2.PNG",
     "3.PNG",
 ];
