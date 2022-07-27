@@ -73,8 +73,8 @@ var l_bgImageMapBased = false;
 // (You can also use external URL)
 var l_bgImages = [
     "1.jpg",
-    "2.PNG",
-    "3.PNG",
+    "2.jpg",
+    "3.jpg",
 ];
 
 
