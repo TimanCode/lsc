@@ -22,7 +22,7 @@ var l_displayMapGamemode = true;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "Force Project";
+var l_serverName = "Star Force";
 
 // Use a video for the background?
 // Otherwise it will use images
@@ -75,7 +75,6 @@ var l_bgImages = [
     "1.jpg",
     "2.jpg",
     "3.png",
-    "4.jpg",
 ];
 
 
